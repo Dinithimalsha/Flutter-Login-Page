@@ -13,7 +13,7 @@ class Header extends StatelessWidget{
           ),
           SizedBox(height: 10,),
           Center(
-            child: Text("Welcome to Inside Android", style: TextStyle(color: Colors.white, fontSize: 18),),
+            child: Text("Welcome to Plebs", style: TextStyle(color: Colors.white, fontSize: 18),),
           )
         ],
       ),
